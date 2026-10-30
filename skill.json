@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-b2b-volume-rebate-tiered-settlement-reconciliation-skill",
+  "version": "1.0.0",
+  "title": "B2B Volume Rebate Tiered Settlement & ERP Reconciliation Skill",
+  "category": "Agentic Commerce (B2B Trade & ERP)",
+  "description": "Calculates multi-tier retrospective and prospective B2B volume rebates, incorporates growth bonuses, reconciles ERP credit memo balances, and detects leakage.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "reconcile_b2b_tiered_rebates"
+  ],
+  "dependencies": []
+}
